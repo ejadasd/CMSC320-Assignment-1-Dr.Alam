@@ -10,3 +10,7 @@ Answer: Data science can applied to many fields. It can be applied to field of m
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines the commits of two branches. It shows the history of how the two branches diverged and then eventually merged back together. Rebase is better for having a cleaner history because it makes a linear history (it takes the commits and places them at the top of the current commit history). However, it removes the old commit hases to make it harder to trace back the other branches.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my data science skills, specifically my ability to model out experiments and then carry them through to completion. I hope to improve my data cleaning skills and be better at deriving trends and patterns from data. 
