@@ -4,3 +4,9 @@ Answer: It's very important for backing up your work in case you make a mistake 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can applied to many fields. It can be applied to field of medicine. You could analyze large amounts of data regarding patients and their personal info like their demographics, socioeconomic situation and health situation to generate patterns and trends regarding certain diseases and illnesses. You might be able to discover correlations between a certain gene or lifestyle habit and a certain disease that no human being by themselves could have recognized.
+
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the commits of two branches. It shows the history of how the two branches diverged and then eventually merged back together. Rebase is better for having a cleaner history because it makes a linear history (it takes the commits and places them at the top of the current commit history). However, it removes the old commit hases to make it harder to trace back the other branches.
